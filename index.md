@@ -9,4 +9,4 @@ I work at the Norlin Library Preservation and Conservation department mainly doi
 
 ### Contact information
  -  [pjacobik.github.io](https://pjacobik.github.io/)
- -  paja2126@colorado.edu
+ - <a href="mailto:paja2126@colorado.edu">paja2126@colorado.edu</a>
