@@ -10,5 +10,5 @@ width="25%">
 
 
 ### Contact information
-  - [paja2126@colorado.edu](paja2126@colorado.edu)
+  - paja2126@colorado.edu 
  -  [pjacobik.github.io](https://pjacobik.github.io/)
