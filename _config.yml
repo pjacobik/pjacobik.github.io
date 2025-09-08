@@ -1,4 +1,4 @@
-title: parker's earth data science portfolio
+title: parkers earth data science portfolio
 description: class project posts
 logo: img/profilepic.png
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-slate
