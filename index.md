@@ -3,7 +3,7 @@ Hello, this is my earth data science portfolio! I am an undergrad at CU for geog
 I work at the Norlin Library Preservation and Conservation department mainly doing book repair, but I also restore maps and other media in the CU collections!
 
 <img 
-  src="/img/profilepic(1).png" 
+  src="/img/profilepic.png" 
   alt="author profile pic" 
   width="25%" >
 
