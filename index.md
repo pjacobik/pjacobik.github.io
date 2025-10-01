@@ -16,4 +16,4 @@ Map of University of Memphis Tennessee
 <embed type="text/html" src="img/memphis.html" width="600" height="600">
 
 Table of Denver Climate Data
-<embed type="text/html" src="img/denver_climate_data.html" 
+<embed type="text/html" src="img/denver_climate_data.html">
