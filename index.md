@@ -16,4 +16,4 @@ Map of Golden Gate Park in San Francisco, CA \
 One of my favorite third spaces in the closest city I grew up near. Going to visit the academy of sciences or having tea at the Japanese tea garden are must-tries when exploring the area! 
 <embed type="text/html" src="img/sanfran (1).html" width="600" height="600">
 
-[Table of Denver Climate Data](https://pjacobik.github.io/img/denver_climate_data.html)
+[Table of Denver Climate Data](https://pjacobik.github.io/img/denverdata(1).html)
