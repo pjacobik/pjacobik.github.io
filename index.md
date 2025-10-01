@@ -14,6 +14,7 @@ I work at the Norlin Library Preservation and Conservation department mainly doi
 ### Here's my work!
 Map of Golden Gate Park in San Francisco, CA 
 <embed type="text/html" src="img/sanfran (1).html" width="600" height="600">
+One of my favorite third spaces in the closest city I grew up near. Going to visit the academy of sciences or having tea at the Japanese tea garden are must-tries when exploring the area! 
 
 Table of Denver Climate Data
 <embed type="text/html" src="img/denver_climate_data.html">
