@@ -22,9 +22,9 @@ The daily weather data used in this assignment was gathered from Denver Internat
 
 [Mountain Lion Migration Data](https://pjacobik.github.io/img/bigcat_portfolio_code.html)\
 description here
+
 <iframe 
   src="/img/migration_plot.html" 
   width="600" 
   height="400" 
   title="Interactive migration plot">
-</iframe>
