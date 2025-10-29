@@ -25,6 +25,6 @@ description here
 
 <iframe 
   src="/img/migration_plot.html" 
-  width="200px" 
-  height="200px" 
+  width="25%" 
+  height="25%" 
   title="Interactive migration plot">
