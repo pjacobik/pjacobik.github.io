@@ -35,10 +35,26 @@ The first graph shows WWF ecoregions that overlap with the recorded GBIF observa
 The Oceti Sakowin, an alliance between the Lakota, Dakota, and Nakota peoples, live across the Great Plains region and have called it home for centuries. The Lakota Nation is recognized to be made of seven tribes that live in this area, specifically North and South Dakota, with the Oglala Lakota Nation residing in the Pine Ridge Indian Reservation ([Oglala Sioux Tribe](https://www.oglala.gov)). Pine Ridge is one of the largest reservations in the US, consisting of nine districts with over fifty distinct communities ([Oglala Lakota Division of Behavioral Health](https://oglalahealth.org/our-community)). However, it is within some of the poorest counties in the country. This means that many inhabitants struggle with high rates of poverty and unemployment, inadequate housing and infrastructure, and lack essential health and social services ([Hampton, 2016](https://memoriesofthepeople.blog/2016/07/07/occupied-lands-the-great-sioux-nation)). This can be attributed to historic land dispossession, colonization, and systemic neglect that results in intergenerational trauma.\
 Even though the Northern Great Plains region is not new to temperature and weather extremes because of their distance from temperate oceans, the variability of such change is beginning to become too chaotic to handle. Since the early 2010s, the Pine Ridge community has dealt with increasingly destructive climate change. In 2011, there was severe drought and wildfires, followed by extensive flooding in 2012. A series of tornadoes was recorded in 2016, a destructive ice storm in 2018, and a bomb cyclone in 2019 ([Elbein, 2019](https://news.mongabay.com/2019/07/as-climate-chaos-escalates-in-indian-country-feds-abandon-tribes/)). Residents have struggled to rebuild because of the lack of federal help and frequency of disaster as more recent years have continued to see intense storms and floods.\
 The first plot below graphs the change in NDVI every July between the years of 2016 to 2022. It shows that the 2016 tornadoes worsened vegetative health but the area was quick to bounce back over the next two years. The 2018 ice storm did less damage to vegetation than it did to infrastructure, but this event served to exacerbate the total damage done by the 2019 bomb cyclone which, along with intense seasonal events, has served to tank the vegetative health of the area up until now. 
-<embed type="text/html" src="img/NDVI/NDVI_July_Means.html" width="600" height="600">
+<iframe 
+  src="/img/NDVI/NDVI_July_Means.html" 
+  width="600px" 
+  height="600px" 
+  title="NDVI Change in July for Pine Ridge">
 The second plot depicts NDVI change from 2016 to 2018 to show the vegetation difference from before and after the tornadoes and ice storms. Because the area experienced above average precipitation and milder drought conditions, more healthy plant growth could be supported after notable disasters. 
-<embed type="text/html" src="img/NDVI/NDVI2016-2018.html" width="600" height="600">
+  <iframe 
+  src="/img/NDVI/NDVI2016-2018.html" 
+  width="600px" 
+  height="600px" 
+  title="NDVI Change from 2016-2018">
 The third plot depicts NDVI change from 2019 to 2022 to show the vegetation difference from before and after the bomb cyclone. Because the area experienced below average precipitation and persistent heatwaves, vegetation stress rose and greenness diminished. Intense colds in winter, along with heat in summer, have caused soil moisture to decline and discourage growth in the past couple years. 
-<embed type="text/html" src="img/NDVI/NDVI2019-2022.html" width="600" height="600">
+      <iframe 
+  src="/img/NDVI/NDVI2019-2022.html" 
+  width="600px" 
+  height="600px" 
+  title="NDVI Change from 2019-2022">
 The last plot depicts the change in NDVI between these two time periods during July. The negative NDVI values here can reflect reductions in grasslands because of drought impacts like increasing temperatures and decreasing rainfall. Pine Ridge vegetation is mostly dependent on these factors because the area has limited groundwater and irrigation systems in a semi-arid prairie ecosystem. 
-<embed type="text/html" src="img/NDVI/NDVI_July_Diff.html" width="600" height="600">
+          <iframe 
+  src="/img/NDVI/NDVI_July_Diff.html" 
+  width="600px" 
+  height="600px" 
+  title="NDVI Change in 2016-18 vs 2019-22 for Pine Ridge">
