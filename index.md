@@ -160,9 +160,12 @@ The last plot depicts the change in NDVI between these two time periods during J
     Phoenix is the seat of Maricopa County and the state capital of Arizona. It is the fifth most populous city and has experienced large growth recently since it is now the second largest hub for data centers which host servers for AI (City of Phoenix). This unprecedented growth risks depleting the city’s already limited water supply and further straining it’s electrical grid (Barringer, 2025). Arizona also experiences some of the highest summer temps in the US. It has many paved roads with low vegetation surfaces. Its arid climate means it has sparse vegetation so the larger area is already more at risk to increasing local heat stress from increasing use of water and energy (Chari, 2025). Comparing NDVI to temperature is important for this area because it measures vegetation health and coverage, which influences the ability of landscapes to mitigate heat. When paired with temperature data, NDVI’s visualization of land cover change can help us identify more specific areas where vulnerabilities to heat stress are higher, or increasing.
   </p>
   <p>
-city of phoenix temperature graph
+The following code displays Phoenix’s annual average temperature from 1998 to 2025 recorded from Phoenix Airport. I also used an OLS regression to quantify the temperature change over time. The second graph estimates the warming rate to be slightly under 0.07*F a year, which is depicted as a steadily rising line with a positive slope. The right cluster of data points has higher average temperatures than the cluster on the left. This shows that the area is warming, but this could be from a host of causes. Unregulated and unsustainable data center development probably isn’t helping.
   </p>
 <embed type="text/html" src="/img/Final/tempcode.html" width="600" height="600">
+  <p>
+NDVI Data
+ </p> 
 <embed type="text/html" src="/img/Final/finalpost.html" width="600" height="600">
   <embed type="text/html" src="/img/Final/extracode.html" width="600" height="600">
 <h4>Citations</h4>
