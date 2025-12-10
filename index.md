@@ -69,7 +69,7 @@ I work at the Norlin Library Preservation and Conservation department mainly doi
 
 <!-- Denver Data -->
 <div id="denver" class="tab-content">
-  <h3>Denver Climate</h3>
+  <h3>Denver Climate Data</h3>
   <p>
 Colorado has a temperate, but continental climate that features  hot summer days, cold winters, low precipitation, and large temperature swings from day to night and high to low altitude. Denver, and the greater metro area, face multiple impacts from climate change other than warming temperatures. The area is at risk for increased wildfires, floods, droughts, and more intense and varied storms (Colorado Climate Action). Along with these issues, the people of Denver have continually faced water scarcity, from reduced snowpacks, and unhealthy air.
     </p>
@@ -91,7 +91,7 @@ There is another gap from 2005 to 2014 that could be explained by a number of fa
 
 <!-- Mountain Lion Data -->
 <div id="lions" class="tab-content">
-  <h3>Mountain Lions</h3>
+  <h3>Mountain Lion Migration Data</h3>
   <p>
 Mountain lions (puma concolor) have the most extensive range of any terrestrial mammal in the Western Hemisphere. They are highly adaptable apex predators that can be found from the Canadian Yukon to Southern Chile. These animals are solitary but have fairly large individual ranges that can get up to hundreds of square miles with low population density. Their activity ranges from localized foraging to long-distance dispersal in these areas (NWF, 2025).
     </p>
@@ -104,8 +104,8 @@ Observation data of this species is mostly collected thorough camera traps, GPS 
     <p>
 The first graph shows WWF ecoregions that overlap with the recorded GBIF observation data for mountain lions. Notably, many ecoregions not in the species’ native habitat are displayed. This could be because of errors in location data, animals being studied in captivity like zoos, or misidentification for example. The graph below this one displays the specific observation points of mountain lions over the previous ecoregion map for clarity. This display more accurately depicts the range of the species with two outliers. We can assume the southern most point is an error while the eastern most point could be misidentified from an asiatic lion or an actual cougar in the exotic pet trade (Fourage et al., 2025). The final map, seen below, takes the ecoregions in the Western hemisphere where mountain lions are found and displays the average amount of species observations by month. 
     </p>
-<embed type="text/html" src="/img/migration_plot.html" width="900" height="900">
-<embed type="text/html" src="img/bigcat_portfolio_code.html" width="600" height="600">
+<embed type="text/html" src="/img/migration_plot.html" width="750" height="750">
+<embed type="text/html" src="/img/bigcat_portfolio_code.html" width="600" height="600">
 
 <h4>Citations</h4>
     <ul>
