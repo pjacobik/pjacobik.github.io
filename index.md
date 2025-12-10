@@ -162,9 +162,9 @@ The last plot depicts the change in NDVI between these two time periods during J
   <p>
 city of phoenix temperature graph
   </p>
-<embed type="text/html" src="/img/Final/tempcode.html” width="800" height="500">
-<embed type="text/html" src="/img/Final/finalpost.html" width="800" height="600">
-  <embed type="text/html" src="/img/Final/extracode.html" width="800" height="600">
+<embed type="text/html" src="/img/Final/tempcode.html" width="600" height="600">
+<embed type="text/html" src="/img/Final/finalpost.html" width="600" height="600">
+  <embed type="text/html" src="/img/Final/extracode.html" width="600" height="600">
 <h4>Citations</h4>
     <ul>
       <li><a href="https://andthewest.stanford.edu/2025/thirsty-for-power-and-water-ai-crunching-data-centers-sprout-across-the-west/">Barringer, 2025</a></li>
