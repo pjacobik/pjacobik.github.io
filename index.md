@@ -80,7 +80,7 @@ The daily weather data used in this assignment was gathered from Denver Internat
 There is another gap from 2005 to 2014 that could be explained by a number of factors from quality or equipment issues to environmental events. Many of the months where data was taken to graph had missing maximum or minimum temperature values to reflect this. The January 1995 value of 23* F reflects the record lows recorded in Denver during the abnormally cold winter. The second graph shows the trend of these temperatures over 30 years. It explains that temperatures in the Denver area have been rising over time, by about 0.18* F per year (3* F in the last 30!), and reflects the trend across Colorado where more warmer days and record highs have been experienced ([Ingold for The Colorado Sun](https://coloradosun.com/2023/09/07/denver-record-high-temperatures-chart/)). 
   </p>
  
-<embed type="text/html" src="img/denverdata.html" width="600" height="600">
+<embed type="text/html" src="img/denverdata.html" width="800" height="600">
 </div>
 
 <div id="lions" class="tab-content">
@@ -95,7 +95,7 @@ Observation data of this species is mostly collected thorough camera traps, GPS 
 
 The first graph shows WWF ecoregions that overlap with the recorded GBIF observation data for mountain lions. Notably, many ecoregions not in the species’ native habitat are displayed. This could be because of errors in location data, animals being studied in captivity like zoos, or misidentification for example. The graph below this one displays the specific observation points of mountain lions over the previous ecoregion map for clarity. This display more accurately depicts the range of the species with two outliers. We can assume the southern most point is an error while the eastern most point could be misidentified from an asiatic lion or an actual cougar in the exotic pet trade ([Fourage et al](https://link.springer.com/article/10.1007/s44353-025-00040-4)). The final map, seen below, takes the ecoregions in the Western hemisphere where mountain lions are found and displays the average amount of species observations by month. 
 
-<embed type="text/html" src="/img/migration_plot.html" width="600" height="600">
+<embed type="text/html" src="/img/migration_plot.html" width="800" height="600">
   </p>
 
   <embed type="text/html" src="img/bigcat_portfolio_code.html" width="600" height="600">
@@ -110,16 +110,16 @@ The first graph shows WWF ecoregions that overlap with the recorded GBIF observa
 Even though the Northern Great Plains region is not new to temperature and weather extremes because of their distance from temperate oceans, the variability of such change is beginning to become too chaotic to handle. Since the early 2010s, the Pine Ridge community has dealt with increasingly destructive climate change. In 2011, there was severe drought and wildfires, followed by extensive flooding in 2012. A series of tornadoes was recorded in 2016, a destructive ice storm in 2018, and a bomb cyclone in 2019 ([Elbein, 2019](https://news.mongabay.com/2019/07/as-climate-chaos-escalates-in-indian-country-feds-abandon-tribes/)). Residents have struggled to rebuild because of the lack of federal help and frequency of disaster as more recent years have continued to see intense storms and floods.
 
 The first plot below graphs the change in NDVI every July between the years of 2016 to 2022. It shows that the 2016 tornadoes worsened vegetative health but the area was quick to bounce back over the next two years. The 2018 ice storm did less damage to vegetation than it did to infrastructure, but this event served to exacerbate the total damage done by the 2019 bomb cyclone which, along with intense seasonal events, has served to tank the vegetative health of the area up until now. 
-<embed type="text/html" src="/img/NDVI/NDVI_July_Means.html" width="600" height="500">
+<embed type="text/html" src="/img/NDVI/NDVI_July_Means.html" width="800" height="500">
 
 The second plot depicts NDVI change from 2016 to 2018 to show the vegetation difference from before and after the tornadoes and ice storms. Because the area experienced above average precipitation and milder drought conditions, more healthy plant growth could be supported after notable disasters. 
-<embed type="text/html" src="/img/NDVI/NDVI2016-2018.html" width="600" height="600">
+<embed type="text/html" src="/img/NDVI/NDVI2016-2018.html" width="800" height="600">
 
 The third plot depicts NDVI change from 2019 to 2022 to show the vegetation difference from before and after the bomb cyclone. Because the area experienced below average precipitation and persistent heatwaves, vegetation stress rose and greenness diminished. Intense colds in winter, along with heat in summer, have caused soil moisture to decline and discourage growth in the past couple years. 
-<embed type="text/html" src="/img/NDVI/NDVI2019-2022.html" width="600" height="600">
+<embed type="text/html" src="/img/NDVI/NDVI2019-2022.html" width="800" height="600">
 
 The last plot depicts the change in NDVI between these two time periods during July. The negative NDVI values here can reflect reductions in grasslands because of drought impacts like increasing temperatures and decreasing rainfall. Pine Ridge vegetation is mostly dependent on these factors because the area has limited groundwater and irrigation systems in a semi-arid prairie ecosystem. 
-<embed type="text/html" src="/img/NDVI/NDVI_July_Diff.html" width="600" height="600">
+<embed type="text/html" src="/img/NDVI/NDVI_July_Diff.html" width="800" height="600">
   </p>
 
   <embed type="text/html" src="/img/NDVI/pric_code.html" width="600" height="600">
