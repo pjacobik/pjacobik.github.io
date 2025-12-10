@@ -82,11 +82,11 @@ There is another gap from 2005 to 2014 that could be explained by a number of fa
  
 <embed type="text/html" src="img/denverdata.html" width="900" height="600">
 
-### Citations
+### Citations\
 
-([(Ingold, 2023)](https://coloradosun.com/2023/09/07/denver-record-high-temperatures-chart/))
-([(Jones, 2023)](https://www.cpr.org/2023/01/23/denvers-official-weather-reports-come-from-dia-heres-why-and-how-you-can-help-complete-it/))
-([(Colorado Climate Action)](https://climate.colorado.gov/health-and-environmental-impacts))
+- ([Colorado Climate Action](https://climate.colorado.gov/health-and-environmental-impacts))
+- ([Ingold, 2023](https://coloradosun.com/2023/09/07/denver-record-high-temperatures-chart/))
+- ([Jones, 2023](https://www.cpr.org/2023/01/23/denvers-official-weather-reports-come-from-dia-heres-why-and-how-you-can-help-complete-it/))
 
 </div>
 
@@ -107,12 +107,12 @@ The first graph shows WWF ecoregions that overlap with the recorded GBIF observa
 
   <embed type="text/html" src="img/bigcat_portfolio_code.html" width="600" height="600">
 
-### Citations
+### Citations\
 
-([(Fourage et al., 2025)](https://link.springer.com/article/10.1007/s44353-025-00040-4))
-([(Murphy et al., 2022)](https://www.sciencedirect.com/science/article/pii/S2351989422001111))
-([(Mountain Lion Foundation)](https://mountainlion.org/about-mountain-lions/))
-([(NWF, 2025)](https://www.nwf.org/Educational-Resources/Wildlife-Guide/Mammals/Mountain-Lion))
+- ([Fourage et al., 2025](https://link.springer.com/article/10.1007/s44353-025-00040-4))
+- ([Mountain Lion Foundation](https://mountainlion.org/about-mountain-lions/))
+- ([Murphy et al., 2022](https://www.sciencedirect.com/science/article/pii/S2351989422001111))
+- ([NWF, 2025](https://www.nwf.org/Educational-Resources/Wildlife-Guide/Mammals/Mountain-Lion))
 
 </div>
 
