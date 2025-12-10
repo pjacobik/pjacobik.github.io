@@ -95,7 +95,7 @@ Observation data of this species is mostly collected thorough camera traps, GPS 
 
 The first graph shows WWF ecoregions that overlap with the recorded GBIF observation data for mountain lions. Notably, many ecoregions not in the species’ native habitat are displayed. This could be because of errors in location data, animals being studied in captivity like zoos, or misidentification for example. The graph below this one displays the specific observation points of mountain lions over the previous ecoregion map for clarity. This display more accurately depicts the range of the species with two outliers. We can assume the southern most point is an error while the eastern most point could be misidentified from an asiatic lion or an actual cougar in the exotic pet trade ([Fourage et al](https://link.springer.com/article/10.1007/s44353-025-00040-4)). The final map, seen below, takes the ecoregions in the Western hemisphere where mountain lions are found and displays the average amount of species observations by month. 
 
-<embed type="text/html" src="/img/migration_plot.html" width="50%">
+<embed type="text/html" src="/img/migration_plot.html" width="900" height="900">
   </p>
 
   <embed type="text/html" src="img/bigcat_portfolio_code.html" width="600" height="600">
