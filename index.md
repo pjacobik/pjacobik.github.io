@@ -80,7 +80,7 @@ The daily weather data used in this assignment was gathered from Denver Internat
 There is another gap from 2005 to 2014 that could be explained by a number of factors from quality or equipment issues to environmental events. Many of the months where data was taken to graph had missing maximum or minimum temperature values to reflect this. The January 1995 value of 23* F reflects the record lows recorded in Denver during the abnormally cold winter. The second graph shows the trend of these temperatures over 30 years. It explains that temperatures in the Denver area have been rising over time, by about 0.18* F per year (3* F in the last 30!), and reflects the trend across Colorado where more warmer days and record highs have been experienced ([Ingold for The Colorado Sun](https://coloradosun.com/2023/09/07/denver-record-high-temperatures-chart/)). 
   </p>
  
-<embed type="text/html" src="img/denverdata.html" width="800" height="600">
+<embed type="text/html" src="img/denverdata.html" width="900" height="600">
 </div>
 
 <div id="lions" class="tab-content">
@@ -95,7 +95,7 @@ Observation data of this species is mostly collected thorough camera traps, GPS 
 
 The first graph shows WWF ecoregions that overlap with the recorded GBIF observation data for mountain lions. Notably, many ecoregions not in the species’ native habitat are displayed. This could be because of errors in location data, animals being studied in captivity like zoos, or misidentification for example. The graph below this one displays the specific observation points of mountain lions over the previous ecoregion map for clarity. This display more accurately depicts the range of the species with two outliers. We can assume the southern most point is an error while the eastern most point could be misidentified from an asiatic lion or an actual cougar in the exotic pet trade ([Fourage et al](https://link.springer.com/article/10.1007/s44353-025-00040-4)). The final map, seen below, takes the ecoregions in the Western hemisphere where mountain lions are found and displays the average amount of species observations by month. 
 
-<embed type="text/html" src="/img/migration_plot.html" width="800" height="600">
+<embed type="text/html" src="/img/migration_plot.html" width="50%">
   </p>
 
   <embed type="text/html" src="img/bigcat_portfolio_code.html" width="600" height="600">
