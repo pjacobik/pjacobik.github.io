@@ -38,3 +38,84 @@ The third plot depicts NDVI change from 2019 to 2022 to show the vegetation diff
 <embed type="text/html" src="/img/NDVI/NDVI2019-2022.html" width="600" height="600">
 The last plot depicts the change in NDVI between these two time periods during July. The negative NDVI values here can reflect reductions in grasslands because of drought impacts like increasing temperatures and decreasing rainfall. Pine Ridge vegetation is mostly dependent on these factors because the area has limited groundwater and irrigation systems in a semi-arid prairie ecosystem. 
 <embed type="text/html" src="/img/NDVI/NDVI_July_Diff.html" width="600" height="600">
+
+<style>
+  .tab-container {
+    margin-top: 20px;
+  }
+  .tabs {
+    display: flex;
+    gap: 10px;
+    border-bottom: 2px solid #1FDD26;
+  }
+  .tab {
+    padding: 8px 14px;
+    cursor: pointer;
+    background: #111;
+    border: 1px solid #1FDD26;
+    border-bottom: none;
+    color: #1FDD26;
+  }
+  .tab.active {
+    background: #1FDD26;
+    color: black;
+    font-weight: bold;
+  }
+  .tab-content {
+    display: none;
+    padding: 15px;
+    border: 1px solid #1FDD26;
+    margin-top: -1px;
+  }
+  .tab-content.active {
+    display: block;
+  }
+</style>
+
+<div class="tab-container">
+
+  <!-- Tabs -->
+  <div class="tabs">
+    <div class="tab active" data-tab="sf">SF Map</div>
+    <div class="tab" data-tab="denver">Denver Climate</div>
+    <div class="tab" data-tab="lions">Mountain Lions</div>
+    <div class="tab" data-tab="ndvi">Pine Ridge NDVI</div>
+    <div class="tab" data-tab="ndvi">Maricopa County NDVI</div>
+  </div>
+
+  <!-- Content for each tab -->
+  <div id="sf" class="tab-content active">
+    <h3>SF Map</h3>
+    <embed type="text/html" src="img/sanfran.html" width="600" height="600">
+  </div>
+
+  <div id="denver" class="tab-content">
+    <h3>Denver Climate</h3>
+    <embed type="text/html" src="https://pjacobik.github.io/img/denverdata.html" width="600" height="600">
+  </div>
+
+  <div id="lions" class="tab-content">
+    <h3>Mountain Lions</h3>
+    <embed type="text/html" src="https://pjacobik.github.io/img/bigcat_portfolio_code.html" width="600" height="600">
+  </div>
+
+  <div id="ndvi" class="tab-content">
+    <h3>Pine Ridge NDVI</h3>
+    <embed type="text/html" src="https://pjacobik.github.io/img/NDVI/pric_code.html" width="600" height="600">
+  </div>
+
+</div>
+
+<script>
+document.querySelectorAll('.tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    const target = tab.dataset.tab;
+
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+
+    tab.classList.add('active');
+    document.getElementById(target).classList.add('active');
+  });
+});
+</script>
