@@ -162,10 +162,14 @@ The last plot depicts the change in NDVI between these two time periods during J
   <p>
 The following code displays Phoenix’s annual average temperature from 1998 to 2025 recorded from Phoenix Airport. I also used an OLS regression to quantify the temperature change over time. The second graph estimates the warming rate to be slightly under 0.07*F a year, which is depicted as a steadily rising line with a positive slope. The right cluster of data points has higher average temperatures than the cluster on the left. This shows that the area is warming, but this could be from a host of causes. Unregulated and unsustainable data center development probably isn’t helping.
   </p>
-<embed type="text/html" src="/img/Final/tempcode.html" width="600" height="600">
+<embed type="text/html" src="/img/Final/tempcode.html" width="900" height="600">
   <p>
 NDVI Data
  </p> 
+  <embed type="text/html" src="/img/Final/ndvi_time1.html" width="600" height="600">
+  <embed type="text/html" src="/img/Final/ndvi_time2.html" width="600" height="600">
+<embed type="text/html" src="/img/Final/ndvi_boundary.html" width="600" height="600">
+  <embed type="text/html" src="/img/Final/graph_difference.html" width="600" height="600">  
 <embed type="text/html" src="/img/Final/finalpost.html" width="600" height="600">
   <embed type="text/html" src="/img/Final/extracode.html" width="600" height="600">
 <h4>Citations</h4>
