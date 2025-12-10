@@ -163,16 +163,27 @@ The last plot depicts the change in NDVI between these two time periods during J
 The following code displays Phoenix’s annual average temperature from 1998 to 2025 recorded from Phoenix Airport. I also used an OLS regression to quantify the temperature change over time. The second graph estimates the warming rate to be slightly under 0.07*F a year, which is depicted as a steadily rising line with a positive slope. The right cluster of data points has higher average temperatures than the cluster on the left. This shows that the area is warming, but this could be from a host of causes. Unregulated and unsustainable data center development probably isn’t helping.
   </p>
 <embed type="text/html" src="/img/Final/tempcode.html" width="900" height="600">
-  <p>
-NDVI Data
- </p> 
   <embed type="text/html" src="/img/Final/ndvi_time1.html" width="800" height="600">
+  <p>
+This period’s NDVI data shows less overall change. Most areas experienced slightly negative trends, implying minor vegetation decline. There are some localized pockets of greenness or development, reflecting areas with new vegetative or urban growth.
+ </p> 
   <embed type="text/html" src="/img/Final/ndvi_time2.html" width="800" height="600">
-<embed type="text/html" src="/img/Final/ndvi_boundary.html" width="800" height="600">
-  <embed type="text/html" src="/img/Final/graph.html" width="800" height="600">  
-  <embed type="text/html" src="/img/Final/graph_difference.html" width="800" height="600">  
+  <p>
+This period’s NDVI data has more areas of concentrated change, showing that vegetation changes are happening in more specific areas rather than across the region. The overall trend is mostly neutral, meaning greenness levels are more stable as a whole. There are more visible pockets of greenness and development, which could be due to urbanization, land management, or agriculture. 
+  </p>
+  <embed type="text/html" src="/img/Final/ndvi_boundary.html" width="800" height="600">
+  <p>
+When comparing the two periods, the NDVI trends show a slight shift from a general minor decline to more localized variation. More areas have experienced stable or slightly positive change. These findings suggest that overall vegetation decline may have slowed down, but land-use change for development is shaping local patterns. 
+  </p>
+  <embed type="text/html" src="/img/Final/graph.html" width="800" height="600">
+  <embed type="text/html" src="/img/Final/graph_difference.html" width="800" height="600">
+  <p>
+Vegetation inside Maricopa County is lower than surrounding areas. This could be explained by its increasing urban development and related land use change around Phoenix. Both the inside and outside areas are trending negatively which reflects a decline in vegetation over time. The rate of decline over these periods seem to differ as there is more current significant change. The difference between both lines is currently negative too. The trend line looks to be moving positively, indicating the gap between each is narrowing. This means that vegetation conditions are becoming more similar over time even though both are experiencing a decline. 
+  </p>
+  
 <embed type="text/html" src="/img/Final/finalpost.html" width="800" height="600">
   <embed type="text/html" src="/img/Final/extracode.html" width="800" height="600">
+  
 <h4>Citations</h4>
     <ul>
       <li><a href="https://andthewest.stanford.edu/2025/thirsty-for-power-and-water-ai-crunching-data-centers-sprout-across-the-west/">Barringer, 2025</a></li>
