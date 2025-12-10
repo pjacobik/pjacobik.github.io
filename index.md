@@ -175,8 +175,8 @@ This period’s NDVI data has more areas of concentrated change, showing that ve
   <p>
 When comparing the two periods, the NDVI trends show a slight shift from a general minor decline to more localized variation. More areas have experienced stable or slightly positive change. These findings suggest that overall vegetation decline may have slowed down, but land-use change for development is shaping local patterns. 
   </p>
-  <embed type="text/html" src="/img/Final/graph.html" width="800" height="600">
-  <embed type="text/html" src="/img/Final/graph_difference.html" width="800" height="600">
+  <embed type="text/html" src="/img/Final/graph.html" width="800" height="400">
+  <embed type="text/html" src="/img/Final/graph_difference.html" width="800" height="400">
   <p>
 Vegetation inside Maricopa County is lower than surrounding areas. This could be explained by its increasing urban development and related land use change around Phoenix. Both the inside and outside areas are trending negatively which reflects a decline in vegetation over time. The rate of decline over these periods seem to differ as there is more current significant change. The difference between both lines is currently negative too. The trend line looks to be moving positively, indicating the gap between each is narrowing. This means that vegetation conditions are becoming more similar over time even though both are experiencing a decline. 
   </p>
