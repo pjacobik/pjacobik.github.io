@@ -166,12 +166,13 @@ The following code displays Phoenix’s annual average temperature from 1998 to 
   <p>
 NDVI Data
  </p> 
-  <embed type="text/html" src="/img/Final/ndvi_time1.html" width="600" height="600">
-  <embed type="text/html" src="/img/Final/ndvi_time2.html" width="600" height="600">
-<embed type="text/html" src="/img/Final/ndvi_boundary.html" width="600" height="600">
-  <embed type="text/html" src="/img/Final/graph_difference.html" width="600" height="600">  
-<embed type="text/html" src="/img/Final/finalpost.html" width="600" height="600">
-  <embed type="text/html" src="/img/Final/extracode.html" width="600" height="600">
+  <embed type="text/html" src="/img/Final/ndvi_time1.html" width="800" height="600">
+  <embed type="text/html" src="/img/Final/ndvi_time2.html" width="800" height="600">
+<embed type="text/html" src="/img/Final/ndvi_boundary.html" width="800" height="600">
+  <embed type="text/html" src="/img/Final/graph.html" width="800" height="600">  
+  <embed type="text/html" src="/img/Final/graph_difference.html" width="800" height="600">  
+<embed type="text/html" src="/img/Final/finalpost.html" width="800" height="600">
+  <embed type="text/html" src="/img/Final/extracode.html" width="800" height="600">
 <h4>Citations</h4>
     <ul>
       <li><a href="https://andthewest.stanford.edu/2025/thirsty-for-power-and-water-ai-crunching-data-centers-sprout-across-the-west/">Barringer, 2025</a></li>
