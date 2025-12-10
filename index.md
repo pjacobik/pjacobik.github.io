@@ -79,7 +79,7 @@ The daily weather data used in this assignment was gathered from Denver Internat
     <p>
 There is another gap from 2005 to 2014 that could be explained by a number of factors from quality or equipment issues to environmental events. Many of the months where data was taken to graph had missing maximum or minimum temperature values to reflect this. The January 1995 value of 23* F reflects the record lows recorded in Denver during the abnormally cold winter. The second graph shows the trend of these temperatures over 30 years. It explains that temperatures in the Denver area have been rising over time, by about 0.18* F per year (3* F in the last 30!), and reflects the trend across Colorado where more warmer days and record highs have been experienced (Ingold for The Colorado Sun, 2023). 
   </p>
-<embed type="text/html" src="img/denverdata.html" width="800" height="600">
+<embed type="text/html" src="img/denverdata.html" width="900" height="600">
 
 <h4>Citations</h4>
     <ul>
