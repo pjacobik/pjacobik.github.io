@@ -156,12 +156,22 @@ The last plot depicts the change in NDVI between these two time periods during J
 
 <div id="maricopa_ndvi" class="tab-content">
   <h3>Maricopa County NDVI</h3>
-  
 <p>
-    Temperature and NDVI research for Maricopa County, Arizona.
+    Phoenix is the seat of Maricopa County and the state capital of Arizona. It is the fifth most populous city and has experienced large growth recently since it is now the second largest hub for data centers which host servers for AI (City of Phoenix). This unprecedented growth risks depleting the city’s already limited water supply and further straining it’s electrical grid (Barringer, 2025). Arizona also experiences some of the highest summer temps in the US. It has many paved roads with low vegetation surfaces. Its arid climate means it has sparse vegetation so the larger area is already more at risk to increasing local heat stress from increasing use of water and energy (Chari, 2025). Comparing NDVI to temperature is important for this area because it measures vegetation health and coverage, which influences the ability of landscapes to mitigate heat. When paired with temperature data, NDVI’s visualization of land cover change can help us identify more specific areas where vulnerabilities to heat stress are higher, or increasing.
   </p>
-
-</div>
+  <p>
+city of phoenix temperature graph
+  </p>
+<embed type="text/html" src="/img/Final/tempcode.html” width="800" height="500">
+<embed type="text/html" src="/img/Final/finalpost.html" width="800" height="600">
+  <embed type="text/html" src="/img/Final/extracode.html" width="800" height="600">
+<h4>Citations</h4>
+    <ul>
+      <li><a href="https://andthewest.stanford.edu/2025/thirsty-for-power-and-water-ai-crunching-data-centers-sprout-across-the-west/">Barringer, 2025</a></li>
+      <li><a href="https://www.apmresearchlab.org/10x/data-centers-resource">Chari, 2025</a></li>
+      <li><a href="https://www.phoenix.gov/administration/departments/communications/history-facts/city-history.html#a-major-american-city" target="_blank">City of Phoenix</a></li>
+    </ul>
+  </div>
 
 <script>
   const tabs = document.querySelectorAll('.tab');
